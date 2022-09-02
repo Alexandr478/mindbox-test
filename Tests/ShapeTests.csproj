@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\HomeTask\ShapeLib.csproj" />
+    <ProjectReference Include="..\ShapeLib\ShapeLib.csproj" />
   </ItemGroup>
 
 </Project>
